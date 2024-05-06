@@ -4,7 +4,7 @@ import SectionTitle from "components/SectionTitle";
 const About = () => {
   return (
     <>
-      <SectionTitle title="About Solar Pulse" />
+      <SectionTitle title="About" />
       <div className="flex w-full items-center sm:flex-col">
         <div className="h-[70vh] w-1/2 sm:w-full">
           <dotlottie-player

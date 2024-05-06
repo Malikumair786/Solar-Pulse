@@ -5,7 +5,7 @@ import { contactInfo } from "Resources/ContactInfo";
 const Contact = () => {
   return (
     <>
-      <SectionTitle title={"Contact Us"} />
+      <SectionTitle title={"Contact"} />
 
       <div className="flex  sm:flex-col-reverse">
         {/* left side */}

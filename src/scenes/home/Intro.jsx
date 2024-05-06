@@ -10,7 +10,7 @@ const Intro = () => {
         <h1 className="text-xl sm:text-xl text-white font-semibold">
           Empowering Solar Efficiency
         </h1>
-        <div className="text-white w-2/3 sm:text-md m-0 p-0 sm:w-full text-start">
+        <div className="text-white w-2/3 sm:text-md m-0 p-0 text-start">
           Solar Pulse provides real-time insights and analytics for solar plant
           performance, helping you optimize energy output and enhance
           operational efficiency.
