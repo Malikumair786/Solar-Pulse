@@ -24,7 +24,7 @@ const Header = () => {
 
   return (
     <>
-      <div className="bg-primary py-2">
+      <div className="bg-primary py-2 max-w-full">
         <div className="flex justify-between">
           <Link to="/">
             <div className="flex items-center ml-10 cursor-pointer">
