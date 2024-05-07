@@ -20,7 +20,7 @@ const Contact = () => {
         </div>
 
         {/* right side */}
-        <div className="w-[30vw] h-[50vh] sm:w-[79vw]">
+        <div className="w-[30vw] h-[50vh] sm:w-[79vw] sm:h-[30vh]">
           <dotlottie-player
             src="https://lottie.host/57cd1e68-179a-4f96-b607-1cc3c9d01fc0/9PLVRPj0TX.json"
             background="transparent"

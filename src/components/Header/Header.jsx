@@ -5,8 +5,6 @@ import "./Header.css";
 import { Link } from "react-router-dom";
 import NotificationsOutlinedIcon from "@mui/icons-material/NotificationsOutlined";
 import MenuIcon from "@mui/icons-material/Menu";
-// import LightModeIcon from "@mui/icons-material/LightMode";
-// import DarkModeIcon from "@mui/icons-material/DarkMode";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -24,7 +22,7 @@ const Header = () => {
 
   return (
     <>
-      <div className="bg-primary py-2 max-w-full">
+      <div className="bg-primary py-2 w-full">
         <div className="flex justify-between">
           <Link to="/">
             <div className="flex items-center ml-10 cursor-pointer">

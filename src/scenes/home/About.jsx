@@ -6,7 +6,7 @@ const About = () => {
     <>
       <SectionTitle title="About" />
       <div className="flex w-full items-center sm:flex-col">
-        <div className="h-[70vh] w-1/2 sm:w-full">
+        <div className="h-[70vh] w-1/2 sm:w-full sm:h-[30vh]">
           <dotlottie-player
             src="https://lottie.host/511ea597-e50e-433c-add8-1930392ab4e7/KGgBj2AVpj.json"
             background="transparent"

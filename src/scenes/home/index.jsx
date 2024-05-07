@@ -6,7 +6,7 @@ import FAQs from "./FAQs";
 
 const Home = () => {
   return (
-    <div className="container max-w-full mx-auto px-4 py-20 text-center bg-secondary">
+    <div className="container max-w-full mx-auto px-2 sm:px-4 py-20 text-center bg-secondary">
       <Intro />
       <About />
       <FAQs />
